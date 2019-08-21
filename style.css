@@ -72,32 +72,32 @@ footer{}
     font-size: 20px;
     opacity: 0.7;
 }
-.header__content{
+.main{
     width: 80%;
     background-image: url(images/main-bg-1280x818.png);
     background-repeat: no-repeat;
     height: 818px;
     float: right;
 }
-.header__info{
+.main__info{
     color: #fff;
     padding-top: 25%;
     padding-left: 10%;
 }
-.header__content h2{
+.main__content h2{
 /*    color: #fff;*/
     font: 24px Verdana, New Georgia, Comic Sans MS, Impact, Courier;
 }
-.header__content h1{
+.main__content h1{
 /*    color: #fff;*/
     font: 40px Sans Serif;
     font-weight: 800;
 }
-.header__content p{
+.main__content p{
 /*    color: #fff;*/
     font: 20px Arial;
 }
-.header__button{
+.main__button{
     padding-left: 10%;
     margin-top: 10px;
 }
