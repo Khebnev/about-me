@@ -173,6 +173,13 @@ footer{}
 
 .content__right{
     float: left;
+    height: 500px;
+    width: 500px;
+    margin-left: 60px;
+}
+.content__right-info-block{
+/*    width: 500px;*/
+    margin-top: 20px;
 }
 .content__right-info-block-name{
 /*    display: inline-block;*/
@@ -196,4 +203,60 @@ footer{}
 }
 .content__right-info-block-email-title{
     float: right;
+}
+.content__right-info-block-phone{
+    float: left;
+}
+.content__right-info-block-phone-img{
+    float: left;
+    margin-right: 20px;
+}
+.content__right-info-block-phone-title{
+    float: right;
+}
+.content__right-info-block-birthday{
+    float: left;
+    margin-left: 106px;
+    margin-right: 80px;
+}
+.content__right-info-block-birthday-img{
+    float: left;
+    margin-right: 20px;
+}
+.content__right-info-block-birthday-title{
+    float: right;
+}
+.content__right-info-block-address{
+    float: left;
+}
+.content__right-info-block-address-img{
+    float: left;
+    margin-right: 20px;
+}
+.content__right-info-block-address-title{
+    float: right;
+}
+.content__right-info-block-nationality{
+    float: left;
+    margin-left: 110px;
+}
+.content__right-info-block-nationality-img{
+    float: left;
+    margin-right: 20px;
+}
+.content__right-info-block-nationality-title{
+    float: right;
+}
+
+.content__right-text{
+    margin-top: 40px;
+    text-indent: 40px;
+    text-align: justify;
+}
+.thanks{
+    text-align: right;
+    margin-top: 10px;
+}
+.strong__anton{
+    font-size: 19px;
 }
