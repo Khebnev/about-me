@@ -133,3 +133,56 @@ footer{}
     opacity: 1;
     box-shadow: inset 0 0 0 1px #108955
 }
+
+
+/*            PAGE ABOUT             ;*/
+
+.about__content{
+    height: 818px;
+    width: 80%;
+    background-color: #dddddd;
+    float: right;
+}
+.content__title{
+    text-align: center;
+    padding-top: 50px;
+
+}
+.content__title h1{
+
+}
+.about__container{
+    margin-top: 50px;
+}
+.about__content-left{
+    float: left;
+    margin-left: 150px;
+}
+.person__ava{
+    text-align: center;
+}
+.person__position{
+    font: 20px Verdana;
+    margin-top: 10px;
+
+}
+.about__content-right{
+    float: left;
+    margin-left: 160px;
+}
+.info__block-name{
+    float: left;
+/*    display: inline-block;*/
+}
+.name__img{
+/*    height: 90px;*/
+/*    display: inline-block;*/
+    float: left;
+}
+.name__name{
+    float: left;
+}
+.info__block-email{
+    float: left;
+    margin-left: 130px;
+}
