@@ -157,32 +157,43 @@ footer{}
 .about__content-left{
     float: left;
     margin-left: 150px;
+/*
+    height: 500px;
+    width: 200px;
+*/
 }
-.person__ava{
+.content__left-ava{
     text-align: center;
 }
-.person__position{
+.content__left-position{
     font: 20px Verdana;
     margin-top: 10px;
 
 }
-.about__content-right{
+
+.content__right{
     float: left;
-    margin-left: 160px;
 }
-.info__block-name{
-    float: left;
-/*    display: inline-block;*/
-}
-.name__img{
-/*    height: 90px;*/
+.content__right-info-block-name{
 /*    display: inline-block;*/
     float: left;
 }
-.name__name{
+.content__right-info-block-name-img{
+/*    width: 300px;*/
     float: left;
+    margin-right: 20px;
 }
-.info__block-email{
+.content__right-info-block-name-title{
+    float: right;
+}
+.content__right-info-block-email{
     float: left;
-    margin-left: 130px;
+    margin-left: 120px;
+}
+.content__right-info-block-email-img{
+    float: left;
+    margin-right: 20px;
+}
+.content__right-info-block-email-title{
+    float: right;
 }
