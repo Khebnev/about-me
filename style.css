@@ -258,3 +258,17 @@ footer{}
 
 /*PAGE SKILLS*/
 
+.skills__main-content{
+    float: right;
+    width: 80%;
+    height: 818px;
+    background-color: #efefef;
+}
+.skills__main-content{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.skills__main-content h1{
+    color: #0083cd;
+}
