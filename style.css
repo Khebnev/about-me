@@ -266,12 +266,17 @@ footer{}
 }
 .skills__main-content{
     padding-top: 30px;
-    padding-bottom: 30px;
+/*    padding-bottom: 30px;*/
 }
 .skills__main-content h1{
     color: #0083cd;
     text-align: center;
 }
+
+.skills__main-content-container{
+    margin-top: 30px;
+}
+
 
 .skills__main-content-left{
     width: 300px;
@@ -280,7 +285,8 @@ footer{}
 
 .professional_skills__list{
     list-style: none;
-    border: 3px solid black;
+/*    border: 3px solid black;*/
+    box-shadow: 0 0 15px rgba(216, 216, 216, 1);
     padding: 10px;
 }
 
