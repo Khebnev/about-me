@@ -282,12 +282,29 @@ footer{}
     width: 300px;
     margin-left: 130px;
 }
+.skills__main-content-left-professional_skills-title{
+    background-color: #0684c8;
+    width: 250px;
+    height: 50px;
+    position: relative;
+    top: 25px;
+    left: 25px;
+}
+.skills__main-content-left-professional_skills-title h2{
+    text-transform: uppercase;
+    color: #fff;;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+
 
 .professional_skills__list{
     list-style: none;
-/*    border: 3px solid black;*/
-    box-shadow: 0 0 15px rgba(216, 216, 216, 1);
-    padding: 10px;
+    border: 3px solid rgba(216, 216, 216, 0.5);
+/*    box-shadow: 0 0 15px rgba(216, 216, 216, 1);*/
+    padding: 40px 10px 10px 10px;
 }
 
 .professional_skills__list-item-html_css-name{
@@ -299,7 +316,7 @@ footer{}
 .professional_skills__list-item-html_css-line{
     width: 25%;
     height: 10px;
-    background-color: green;
+    background-color: #0684c8;
 }
 
 .professional_skills__list-item-photoshop-name{
@@ -311,7 +328,7 @@ footer{}
 .professional_skills__list-item-photoshop-line{
     width: 20%;
     height: 10px;
-    background-color: green;
+    background-color: #0684c8;
 }
 .professional_skills__list-item-SASS-name{
     float: left;
@@ -322,7 +339,7 @@ footer{}
 .professional_skills__list-item-SASS-line{
     width: 0.5%;
     height: 10px;
-    background-color: green;
+    background-color: #0684c8;
 }
 .professional_skills__list-item-adaptive-name{
     float: left;
@@ -333,7 +350,7 @@ footer{}
 .professional_skills__list-item-adaptive-line{
     width: 0.5%;
     height: 10px;
-    background-color: green;
+    background-color: #0684c8;
 }
 .professional_skills__list-item-javascript-name{
     float: left;
@@ -344,7 +361,7 @@ footer{}
 .professional_skills__list-item-javascript-line{
     width: 0.5%;
     height: 10px;
-    background-color: green;
+    background-color: #0684c8;
 }
 .professional_skills__list-item-jquery-name{
     float: left;
@@ -355,7 +372,7 @@ footer{}
 .professional_skills__list-item-jquery-line{
     width: 0.5%;
     height: 10px;
-    background-color: green;
+    background-color: #0684c8;
 }
 .professional_skills__list-item-bootstrap-name{
     float: left;
@@ -366,7 +383,7 @@ footer{}
 .professional_skills__list-item-bootstrap-line{
     width: 0.5%;
     height: 10px;
-    background-color: green;
+    background-color: #0684c8;
 }
 .professional_skills__list-item-svg-name{
     float: left;
@@ -377,7 +394,7 @@ footer{}
 .professional_skills__list-item-svg-line{
     width: 0.5%;
     height: 10px;
-    background-color: green;
+    background-color: #0684c8;
 }
 .professional_skills__list-item-gulp-name{
     float: left;
@@ -388,7 +405,7 @@ footer{}
 .professional_skills__list-item-gulp-line{
     width: 0.5%;
     height: 10px;
-    background-color: green;
+    background-color: #0684c8;
 }
 .professional_skills__list-item-git-name{
     float: left;
@@ -399,7 +416,7 @@ footer{}
 .professional_skills__list-item-git-line{
     width: 15%;
     height: 10px;
-    background-color: green;
+    background-color: #0684c8;
 }
 .professional_skills__list-item-modx-name{
     float: left;
@@ -410,7 +427,7 @@ footer{}
 .professional_skills__list-item-modx-line{
     width: 0.5%;
     height: 10px;
-    background-color: green;
+    background-color: #0684c8;
 }
 .professional_skills__list-item-php-name{
     float: left;
@@ -421,7 +438,7 @@ footer{}
 .professional_skills__list-item-php-line{
     width: 0.5%;
     height: 10px;
-    background-color: green;
+    background-color: #0684c8;
 }
 .professional_skills__list-item-wp-name{
     float: left;
@@ -432,5 +449,5 @@ footer{}
 .professional_skills__list-item-wp-line{
     width: 0.5%;
     height: 10px;
-    background-color: green;
+    background-color: #0684c8;
 }
