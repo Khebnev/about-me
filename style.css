@@ -265,10 +265,166 @@ footer{}
     background-color: #efefef;
 }
 .skills__main-content{
-    text-align: center;
     padding-top: 30px;
     padding-bottom: 30px;
 }
 .skills__main-content h1{
     color: #0083cd;
+    text-align: center;
+}
+
+.skills__main-content-left{
+    width: 300px;
+    margin-left: 130px;
+}
+
+.professional_skills__list{
+    list-style: none;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.professional_skills__list-item-html_css-name{
+    float: left;
+}
+.professional_skills__list-item-html_css-procent{
+    float: right;
+}
+.professional_skills__list-item-html_css-line{
+    width: 25%;
+    height: 10px;
+    background-color: green;
+}
+
+.professional_skills__list-item-photoshop-name{
+    float: left;
+}
+.professional_skills__list-item-photoshop-percent{
+    float: right;
+}
+.professional_skills__list-item-photoshop-line{
+    width: 20%;
+    height: 10px;
+    background-color: green;
+}
+.professional_skills__list-item-SASS-name{
+    float: left;
+}
+.professional_skills__list-item-SASS-percent{
+    float: right;
+}
+.professional_skills__list-item-SASS-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: green;
+}
+.professional_skills__list-item-adaptive-name{
+    float: left;
+}
+.professional_skills__list-item-adaptive-percent{
+    float: right;
+}
+.professional_skills__list-item-adaptive-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: green;
+}
+.professional_skills__list-item-javascript-name{
+    float: left;
+}
+.professional_skills__list-item-javascript-percent{
+    float: right;
+}
+.professional_skills__list-item-javascript-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: green;
+}
+.professional_skills__list-item-jquery-name{
+    float: left;
+}
+.professional_skills__list-item-jquery-percent{
+    float: right;
+}
+.professional_skills__list-item-jquery-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: green;
+}
+.professional_skills__list-item-bootstrap-name{
+    float: left;
+}
+.professional_skills__list-item-bootstrap-percent{
+    float: right;
+}
+.professional_skills__list-item-bootstrap-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: green;
+}
+.professional_skills__list-item-svg-name{
+    float: left;
+}
+.professional_skills__list-item-svg-percent{
+    float: right;
+}
+.professional_skills__list-item-svg-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: green;
+}
+.professional_skills__list-item-gulp-name{
+    float: left;
+}
+.professional_skills__list-item-gulp-percent{
+    float: right;
+}
+.professional_skills__list-item-gulp-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: green;
+}
+.professional_skills__list-item-git-name{
+    float: left;
+}
+.professional_skills__list-item-git-percent{
+    float: right;
+}
+.professional_skills__list-item-git-line{
+    width: 15%;
+    height: 10px;
+    background-color: green;
+}
+.professional_skills__list-item-modx-name{
+    float: left;
+}
+.professional_skills__list-item-modx-percent{
+    float: right;
+}
+.professional_skills__list-item-modx-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: green;
+}
+.professional_skills__list-item-php-name{
+    float: left;
+}
+.professional_skills__list-item-php-percent{
+    float: right;
+}
+.professional_skills__list-item-php-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: green;
+}
+.professional_skills__list-item-wp-name{
+    float: left;
+}
+.professional_skills__list-item-wp-percent{
+    float: right;
+}
+.professional_skills__list-item-wp-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: green;
 }
