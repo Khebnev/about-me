@@ -65,13 +65,9 @@ footer{}
     font-size: 23px;
 }
 
-.header__footer{
-    color: #fff;
-    margin-left: 60px;
-    font-size: 20px;
-    opacity: 0.7;
-}
-.main{
+
+
+.main__content{
     width: 80%;
     background-image: url(images/main-bg-1280x818.png);
     background-repeat: no-repeat;
@@ -258,4 +254,240 @@ footer{}
 }
 .strong__anton{
     font-size: 19px;
+}
+
+/*PAGE SKILLS*/
+
+.skills__main-content{
+    float: right;
+    width: 80%;
+    height: 818px;
+    background-color: #efefef;
+}
+.skills__main-content{
+    padding-top: 30px;
+/*    padding-bottom: 30px;*/
+}
+.skills__main-content h1{
+    color: #0083cd;
+    text-align: center;
+}
+
+.skills__main-content-container{
+    margin-top: 30px;
+}
+
+
+.skills__main-content-left{
+    width: 300px;
+    margin-left: 130px;
+    float: left;
+}
+.skills__main-content-left-professional_skills-title{
+    background-color: #0684c8;
+    width: 250px;
+    height: 50px;
+    position: relative;
+    top: 25px;
+    left: 25px;
+}
+.skills__main-content-left-professional_skills-title h2{
+    text-transform: uppercase;
+    color: #fff;;
+    font-size: 18px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+/*LEFT SIDE FOR MAIN*/
+
+.professional_skills__list{
+    list-style: none;
+    border: 3px solid rgba(216, 216, 216, 0.5);
+/*    box-shadow: 0 0 15px rgba(216, 216, 216, 1);*/
+    padding: 40px 10px 10px 10px;
+}
+
+.professional_skills__list-item-html_css-name{
+    float: left;
+}
+.professional_skills__list-item-html_css-procent{
+    float: right;
+}
+.professional_skills__list-item-html_css-line{
+    width: 25%;
+    height: 10px;
+    background-color: #0684c8;
+}
+
+.professional_skills__list-item-photoshop-name{
+    float: left;
+}
+.professional_skills__list-item-photoshop-percent{
+    float: right;
+}
+.professional_skills__list-item-photoshop-line{
+    width: 20%;
+    height: 10px;
+    background-color: #0684c8;
+}
+.professional_skills__list-item-SASS-name{
+    float: left;
+}
+.professional_skills__list-item-SASS-percent{
+    float: right;
+}
+.professional_skills__list-item-SASS-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: #0684c8;
+}
+.professional_skills__list-item-adaptive-name{
+    float: left;
+}
+.professional_skills__list-item-adaptive-percent{
+    float: right;
+}
+.professional_skills__list-item-adaptive-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: #0684c8;
+}
+.professional_skills__list-item-javascript-name{
+    float: left;
+}
+.professional_skills__list-item-javascript-percent{
+    float: right;
+}
+.professional_skills__list-item-javascript-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: #0684c8;
+}
+.professional_skills__list-item-jquery-name{
+    float: left;
+}
+.professional_skills__list-item-jquery-percent{
+    float: right;
+}
+.professional_skills__list-item-jquery-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: #0684c8;
+}
+.professional_skills__list-item-bootstrap-name{
+    float: left;
+}
+.professional_skills__list-item-bootstrap-percent{
+    float: right;
+}
+.professional_skills__list-item-bootstrap-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: #0684c8;
+}
+.professional_skills__list-item-svg-name{
+    float: left;
+}
+.professional_skills__list-item-svg-percent{
+    float: right;
+}
+.professional_skills__list-item-svg-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: #0684c8;
+}
+.professional_skills__list-item-gulp-name{
+    float: left;
+}
+.professional_skills__list-item-gulp-percent{
+    float: right;
+}
+.professional_skills__list-item-gulp-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: #0684c8;
+}
+.professional_skills__list-item-git-name{
+    float: left;
+}
+.professional_skills__list-item-git-percent{
+    float: right;
+}
+.professional_skills__list-item-git-line{
+    width: 15%;
+    height: 10px;
+    background-color: #0684c8;
+}
+.professional_skills__list-item-modx-name{
+    float: left;
+}
+.professional_skills__list-item-modx-percent{
+    float: right;
+}
+.professional_skills__list-item-modx-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: #0684c8;
+}
+.professional_skills__list-item-php-name{
+    float: left;
+}
+.professional_skills__list-item-php-percent{
+    float: right;
+}
+.professional_skills__list-item-php-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: #0684c8;
+}
+.professional_skills__list-item-wp-name{
+    float: left;
+}
+.professional_skills__list-item-wp-percent{
+    float: right;
+}
+.professional_skills__list-item-wp-line{
+    width: 0.5%;
+    height: 10px;
+    background-color: #0684c8;
+}
+
+
+/*RIGHT SIDE FOR MAIN*/
+
+.skills__main-content-right{
+    width: 600px;
+    float: right;
+}
+.skills__main-content-right-languages{
+    width: 300px;
+}
+.skills__main-content-left-languages-title{
+    width: 250px;
+    height: 50px;
+    background-color: #0084ce;
+    position: relative;
+    top: 25px;
+    left: 25px;
+}
+.skills__main-content-left-languages-title h2{
+    color: #fff;
+    text-align: center;
+    padding-top: 10px;
+}
+.languages__list{
+    list-style: none;
+
+    border: 3px solid rgba(216, 216, 216, 0.5);
+    padding: 40px 10px 10px 10px;
+}
+.languages__list-item{
+    margin-bottom: 15px;
+}
+.languages__list-item-name{
+    float: left;
+}
+.languages__list-item-level{
+    float: right;
 }
