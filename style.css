@@ -263,18 +263,18 @@ footer{}
     width: 80%;
     height: 818px;
     background-color: #efefef;
+
 }
-.skills__main-content{
-    padding-top: 30px;
-/*    padding-bottom: 30px;*/
-}
+
 .skills__main-content h1{
     color: #0083cd;
     text-align: center;
+    padding-top: 30px;
 }
 
 .skills__main-content-container{
-    margin-top: 30px;
+    padding-top: 30px;
+
 }
 
 
